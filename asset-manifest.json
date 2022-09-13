@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptotracker/static/css/main.1a9a7a29.css",
+    "main.js": "/cryptotracker/static/js/main.295320ba.js",
+    "index.html": "/cryptotracker/index.html",
+    "main.1a9a7a29.css.map": "/cryptotracker/static/css/main.1a9a7a29.css.map",
+    "main.295320ba.js.map": "/cryptotracker/static/js/main.295320ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a9a7a29.css",
+    "static/js/main.295320ba.js"
+  ]
+}
