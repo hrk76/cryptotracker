@@ -2,7 +2,7 @@
   "name": "cryptotracker",
   "homepage": "https://hrk76.github.io/cryptotracker",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/lab": "^4.0.0-alpha.61",
