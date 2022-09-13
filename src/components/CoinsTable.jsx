@@ -37,7 +37,6 @@ const CoinsTable = () => {
     setCoins(data);
     setLoading(false);
   };
-  console.log(coins);
   const darkTheme = createTheme({
     palette: {
       primary: {
@@ -72,6 +71,7 @@ const CoinsTable = () => {
   const classes = useStyles();
   useEffect(() => {
     fetchCoins();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currency]);
 
   return (
